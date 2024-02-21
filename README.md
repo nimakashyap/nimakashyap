@@ -1,4 +1,4 @@
-### Hi there 👋 its my one of the project done in Power BI tools 
+### Hi there 👋 this project i have done in Power BI on Institute data
 
 <!--
 **nimakashyap/nimakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
