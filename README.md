@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/206fe1b4-2826-4d3f-b16d-89b4b84321ce)
+
+
 ## Hi, I am Nima Kashyap👋
 I'm a Certified Power Bi Developer & Data Analyst 💻, Finance professional💹
 
