@@ -6,8 +6,18 @@
 I'm a Certified 
           Power Bi Developer 💹, Data Analyst 💻 and Finance professional
 
+![Static Badge](https://img.shields.io/badge/Power%20BI%20Developer-purple)
+![Static Badge](https://img.shields.io/badge/Data%20Analyst-red)
+![Static Badge](https://img.shields.io/badge/Python-red)
+![Static Badge](https://img.shields.io/badge/Google%20Cloud-blue)
+![Static Badge](https://img.shields.io/badge/Big%20Query-red)
+![Static Badge](https://img.shields.io/badge/Financial%20Analyst-purple)
+![Static Badge](https://img.shields.io/badge/Data%20Visualization-purple)
+![Static Badge](https://img.shields.io/badge/Data%20Transformation-black)
+![Static Badge](https://img.shields.io/badge/Data%20Modeling-red)
+![Static Badge](https://img.shields.io/badge/Power%20Query-black)
+![Static Badge](https://img.shields.io/badge/Jira-red)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
-![Static Badge](https://img.shields.io/badge/Power_BI-yellow)
 
 
 
