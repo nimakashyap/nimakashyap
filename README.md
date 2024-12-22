@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/206fe1b4-2826-4d3f-b16d-89b4b84321ce)
+![Uploading image.png…]()
+
 
 
 ## Hi, I am Nima Kashyap👋
