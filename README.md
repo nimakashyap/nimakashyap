@@ -6,6 +6,10 @@
 I'm a Certified 
           Power Bi Developer 💹, Data Analyst 💻 and Finance professional
 
+https://img.shields.io/badge/:badgeContent
+
+          
+
 I love the process of solving complex business problems using data and the challenge of finding out-of-the-box approaches and applying them. My GitHub profile showcases projects in Data Analytics, Power BI, Google Cloud, Python, ETL, SQL Server, and Tableau. My experience as a Power BI Developer, Data Analyst, and Financial Analyst allows me to approach data-driven challenges with a strategic, financial perspective, ensuring that solutions are both actionable and aligned with business goals. I thrive on transforming raw data into valuable insights, helping organizations optimize their performance and make informed decisions based on accurate data analysis
 <!--
 **nimakashyap/nimakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
