@@ -6,8 +6,9 @@
 I'm a Certified 
           Power Bi Developer 💹, Data Analyst 💻 and Finance professional
 
-[![Static Badge](https://img.shields.io/badge/Demo_badge-red)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
+![Static Badge](https://img.shields.io/badge/Power_BI-yellow)
+
 
 
           
